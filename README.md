@@ -6,6 +6,7 @@ In this version i released the program.
 
 # UPDATE VERSION 1.1
 -Added a Settings program that have no function.
+
 -Added CheckList Maker
 
 # HOW TO USE
